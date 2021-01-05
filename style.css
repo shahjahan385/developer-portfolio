@@ -1,0 +1,13 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{ 
+    font-size:50px;
+}
+.name-highlight{
+    color:rgb(66, 235, 44);
+}
+.outset {border-style: outset;}
+.italic {
+    font-style: italic;
