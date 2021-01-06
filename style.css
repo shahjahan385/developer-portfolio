@@ -14,7 +14,6 @@ p{font-family: cursive;}
 }
 .outset {border-style: outset; 
     background-color: rgb(118, 233, 118);
-
 }
 .half-width{
     width: 40%;
@@ -29,3 +28,4 @@ p{font-family: cursive;}
 }
 .italic {
     font-style: italic;
+}
