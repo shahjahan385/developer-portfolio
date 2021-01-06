@@ -1,13 +1,31 @@
 body{
-    font-family: 'Oswald', sans-serif;
+    font-family: Times New Roman, serif;;
 }
 
 h1{ 
     font-size:50px;
 }
+h1 {
+    background-color: rgb(184, 151, 173);
+  }
+p{font-family: cursive;}
 .name-highlight{
-    color:rgb(66, 235, 44);
+    color:rgb(255, 176, 4);
 }
-.outset {border-style: outset;}
+.outset {border-style: outset; 
+    background-color: rgb(118, 233, 118);
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 100%;
+
+}
 .italic {
     font-style: italic;
